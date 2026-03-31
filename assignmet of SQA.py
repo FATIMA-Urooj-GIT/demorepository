@@ -21,15 +21,24 @@ def project_status():
     print("Status: Initial code structure created by the owner.")
     print("Message: This project is now ready for team collaboration.")
 
+    # Muqaddas contribution
+def otherstudent_feature():
+    print("This feature is added by Muqaddas Rasheed.")
+    print("Task: Simple Multiplication")
+    
+    num1 = 4
+    num2 = 3
+    print(f"Multiplication of {num1} and {num2} is: {num1 * num2}")
+
 # Main Program
 if __name__ == "__main__":
     student_details()
     project_status()
+    otherstudent_feature()
     
     # Ek simple task assignment ke liye
     print("\n--- Python Task: Basic Calculator ---")
     num1 = 10
     num2 = 5
     print(f"Addition of {num1} and {num2} is: {num1 + num2}")
-    print("Subtraction of {num1} and {num2} is : {num1 - num2}")
-     print("Multiplication of {num1} and {num2} is : {num1*num2}")
+   
