@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544715288062",
+    "project_id": "smart-disaster-management-sys",
+    "storage_bucket": "smart-disaster-management-sys.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544715288062:android:fdd893640f7e8c3f1364af",
+        "android_client_info": {
+          "package_name": "com.example.flutter_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNwJTrPCKMrYZqsqiILVhwy6Fnv-058pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
